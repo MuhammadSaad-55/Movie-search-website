@@ -1,6 +1,4 @@
-Yaar ghabrao mat! README.md khali ho gayi — bas wapas content paste karo!
-README.md file mein yeh poora content paste karo:
-markdown# 🎬 Movie Search App
+# 🎬 Movie Search App
 
 A clean, responsive movie discovery web app built with vanilla HTML, CSS, and JavaScript — powered by the TMDB API.
 
@@ -28,7 +26,7 @@ A clean, responsive movie discovery web app built with vanilla HTML, CSS, and Ja
 - 🎭 **Genre Filter** — Filter movies by genre (Action, Comedy, Horror, etc.)
 - ▶️ **Trailer Popup** — Watch YouTube trailers directly inside the app
 - ❤️ **Favourites** — Save movies to your personal list using LocalStorage
-- 📱 **Fully Responsive** — Works on mobile, tablet, and desktop
+- 📱 **Fully Responsive** — Works on mobile and desktop
 
 ---
 
@@ -68,12 +66,12 @@ A clean, responsive movie discovery web app built with vanilla HTML, CSS, and Ja
 
 ## 🚀 How It Works
 
-1. On load — TMDB API se popular movies fetch hoti hain
-2. First movie hero section mein display hoti hai
-3. Baaki saari movies poster grid mein dikhti hain
-4. Search ya genre filter karo — naye results aate hain
-5. Trailer button dabao — YouTube embed modal mein khulta hai
-6. Favourites button dabao — LocalStorage mein save hota hai
+1. On load — Popular movies are fetched from the TMDB API
+2. The first movie is displayed as a full-screen hero section
+3. Remaining movies are shown in a responsive poster grid
+4. Use the search bar or genre filter to discover new movies
+5. Click the Trailer button to watch the YouTube trailer in a popup modal
+6. Click the Favourites button to save movies — stored in LocalStorage so they persist on refresh
 
 ---
 
