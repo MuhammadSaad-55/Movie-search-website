@@ -43,6 +43,7 @@ A clean, responsive movie discovery web app built with vanilla HTML, CSS, and Ja
 
 ## 📁 Project Structure
 
+```
 movie-search-app/
 │
 ├── index.html
@@ -57,8 +58,9 @@ movie-search-app/
 │   └── responsive.js    # Mobile search toggle
 │
 └── screenshots/
-├── desktop.png
-└── mobile.png
+    ├── desktop.png
+    └── mobile.png
+```
 
 ---
 
