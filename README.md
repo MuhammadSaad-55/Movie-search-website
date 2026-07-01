@@ -58,9 +58,7 @@ A clean, responsive movie discovery web app built with vanilla HTML, CSS, and Ja
     │   ├── favourites.js
     │   └── responsive.js
     │
-    └── screenshots/
-        ├── desktop.png
-        └── mobile.png
+    └── images
 
 ---
 
